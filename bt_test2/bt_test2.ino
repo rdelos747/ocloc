@@ -25,7 +25,7 @@ Adafruit_BLE_UART BTLEserial = Adafruit_BLE_UART(ADAFRUITBLE_REQ, ADAFRUITBLE_RD
 
 int CLOCK_STATE           = 0;
 int CLOCK_SET             = 255;
-int RESET                 = 0;
+int RESET                 = 1;
 
 //=============================
 // I N I T
